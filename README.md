@@ -4,6 +4,13 @@ A small Windows utility for managing files and installing mods on Steam Frame ov
 
 <img width="1236" height="810" alt="Screenshot_1" src="https://github.com/user-attachments/assets/31ab0a42-db3a-4c7d-9032-5457eaa89476" />
 
+# Install
+
+Just get the release package here :
+https://github.com/Pk-c/ModFrame/releases/tag/v1.2.1
+
+Unzip and launch ModFrame.exe
+
 # How to use ModFrame
 
 1. On your Steam Frame, enable Developer Mode and USB Debugging.
