@@ -1,0 +1,36 @@
+# .NET build output
+bin/
+obj/
+publish/
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+# IDE and user-specific files
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Local logs, temporary files, and backups
+*.log
+*.tmp
+*.bak
+Data/Backups/
+
+# Environment files and local configuration
+.env
+.env.*
+!.env.example
+appsettings.*.local.json
+secrets.json
+
+# Private keys and signing credentials
+*.key
+*.pem
+*.pfx
+*.p12
+*.snk
